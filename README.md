@@ -2,7 +2,7 @@
 - 👀 I’m interested in pretty much anything science, social science, politics, art...
 - 🌱 I’m currently learning pottery and code
 - 💞️ I’m looking to collaborate on... I really don't know yet.
-- 📫 How to reach me: (why would you want to? let me see what this is about first)
+- 📫 How to reach me: cris.fernandez.alvarez@gmail.com
 
 <!---
 crisiscoding/crisiscoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
