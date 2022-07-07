@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crisiscoding
 - 👀 I’m interested in pretty much anything science, social science, politics, art...
 - 🌱 I’m currently learning pottery and code
-- 💞️ I’m looking to collaborate on... I really don't know yet.
+- 💞️ I’m looking to collaborate on anything opensource in JS, I want to learn as much as possible!
 - 📫 How to reach me: cris.fernandez.alvarez@gmail.com
 
 <!---
